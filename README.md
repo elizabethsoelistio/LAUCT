@@ -17,3 +17,5 @@ Customer:
 - password: password
 
 ## Video:
+YouTube Link:
+https://youtu.be/ijN5nz5a6_Y
