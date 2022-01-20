@@ -16,6 +16,10 @@ Customer:
 - email: customer@customer.com
 - password: password
 
+Other Customer:
+- email: minmin@customer.com
+- password: password
+
 ## Video:
 YouTube Link:
 https://youtu.be/ijN5nz5a6_Y
